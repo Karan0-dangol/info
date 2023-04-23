@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karan172334342
+- 👋 Hi, I’m @karan
 - 👀 I’m interested in making games, awesome websites, coding, awesome programming, but I am still in learning process.. 
 - 🌱 I’m currently learning Javascript and it frameworks
 - 💞️ I’m looking to collaborate on ...
